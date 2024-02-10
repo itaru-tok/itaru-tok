@@ -5,4 +5,6 @@
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=itaru-tok&theme=onedark&show_icons=true" />
 </p>
 
+現職のGithubアカウント：https://github.com/cuon-tokuda
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=itaru-tok&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
