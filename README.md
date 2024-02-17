@@ -1,6 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=itaru-tok&theme=dark)](https://git.io/streak-stats)
 
-[現職のGithubアカウントはこちら](https://github.com/cuon-tokuda)
+[Github acount of current componey](https://github.com/cuon-tokuda)
 
 <!-- <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaru-tok&layout=compact&show_icons=true&theme=onedark" />
