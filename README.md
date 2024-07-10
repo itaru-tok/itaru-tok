@@ -21,6 +21,8 @@
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
+[Github acount of current componey](https://github.com/cuon-tokuda)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=itaru-tok&theme=dark)](https://git.io/streak-stats)
 
 <p align="left"> 
@@ -29,5 +31,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itaru-tok&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-
-[Github acount of current componey](https://github.com/cuon-tokuda)
